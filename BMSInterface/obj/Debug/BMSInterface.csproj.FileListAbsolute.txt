@@ -1,0 +1,29 @@
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\BMSInterface.dll.config
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\BMSInterface.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\BMSInterface.pdb
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\BMSEntity.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\EntityFramework.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\BMSEntity.pdb
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\BMSEntity.dll.config
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\EntityFramework.xml
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\obj\Debug\BMSInterface.csprojResolveAssemblyReference.cache
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\obj\Debug\BMSInterface.csproj.CoreCompileInputs.cache
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\obj\Debug\BMSInterface.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSInterface\obj\Debug\BMSInterface.pdb
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\BMSInterface.dll.config
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\BMSInterface.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\BMSInterface.pdb
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\BMSEntity.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\EntityFramework.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\EntityFramework.SqlServer.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\BMSEntity.pdb
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\BMSEntity.dll.config
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\EntityFramework.xml
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\bin\Debug\EntityFramework.SqlServer.xml
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\obj\Debug\BMSInterface.csprojResolveAssemblyReference.cache
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\obj\Debug\BMSInterface.csproj.CoreCompileInputs.cache
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\obj\Debug\BMSInterface.csproj.CopyComplete
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\obj\Debug\BMSInterface.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSInterface\obj\Debug\BMSInterface.pdb

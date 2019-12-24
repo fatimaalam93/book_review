@@ -1,0 +1,35 @@
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\BMSRepository.dll.config
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\BMSRepository.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\BMSRepository.pdb
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\BMSEntity.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\BMSInterface.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\EntityFramework.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\BMSEntity.pdb
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\BMSEntity.dll.config
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\BMSInterface.pdb
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\BMSInterface.dll.config
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\EntityFramework.xml
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\obj\Debug\BMSRepository.csprojResolveAssemblyReference.cache
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\obj\Debug\BMSRepository.csproj.CoreCompileInputs.cache
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\obj\Debug\BMSRepository.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSRepository\obj\Debug\BMSRepository.pdb
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\BMSRepository.dll.config
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\BMSRepository.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\BMSRepository.pdb
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\BMSEntity.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\BMSInterface.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\EntityFramework.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\EntityFramework.SqlServer.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\BMSEntity.pdb
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\BMSEntity.dll.config
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\BMSInterface.pdb
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\BMSInterface.dll.config
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\EntityFramework.xml
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\bin\Debug\EntityFramework.SqlServer.xml
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\obj\Debug\BMSRepository.csprojResolveAssemblyReference.cache
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\obj\Debug\BMSRepository.csproj.CoreCompileInputs.cache
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\obj\Debug\BMSRepository.csproj.CopyComplete
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\obj\Debug\BMSRepository.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSRepository\obj\Debug\BMSRepository.pdb

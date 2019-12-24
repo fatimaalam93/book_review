@@ -1,0 +1,22 @@
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\bin\Debug\BMSEntity.dll.config
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\bin\Debug\BMSEntity.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\bin\Debug\BMSEntity.pdb
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\bin\Debug\EntityFramework.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\bin\Debug\EntityFramework.xml
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\obj\Debug\BMSEntity.csproj.CoreCompileInputs.cache
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\obj\Debug\BMSEntity.dll
+C:\Users\shihab\source\repos\ATP2FInal\BMSEntity\obj\Debug\BMSEntity.pdb
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\bin\Debug\BMSEntity.dll.config
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\bin\Debug\BMSEntity.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\bin\Debug\BMSEntity.pdb
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\bin\Debug\EntityFramework.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\bin\Debug\EntityFramework.SqlServer.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\bin\Debug\EntityFramework.xml
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\bin\Debug\EntityFramework.SqlServer.xml
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\obj\Debug\BMSEntity.csprojResolveAssemblyReference.cache
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\obj\Debug\BMSEntity.csproj.CoreCompileInputs.cache
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\obj\Debug\BMSEntity.csproj.CopyComplete
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\obj\Debug\BMSEntity.dll
+G:\10th Semester\ATP2\Final\Final Project\ATP2FInal\ATP2FInal\BMSEntity\obj\Debug\BMSEntity.pdb
